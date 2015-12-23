@@ -17,3 +17,5 @@ Instead of doing this everytime, just clone this repo.
 Sometimes you may need to run:
 >meteor update               
 
+Then you may want to remove the .git directory if you plan on creating your own repo
+>rm -rf .git
